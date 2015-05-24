@@ -1,0 +1,7 @@
+venv
+.swp
+.pyc
+dist
+build
+egg
+django_direct_render.egg-info/

@@ -1,7 +1,7 @@
 import os
 from setuptools import setup
 
-VERSION='0.1.0'
+VERSION='0.1.1'
 
 with open(os.path.join(os.path.dirname(__file__), 'readme.md')) as readme:
     README = readme.read()

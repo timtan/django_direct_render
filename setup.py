@@ -21,6 +21,8 @@ setup(
     long_description=README,
     author='Tim Hsu',
     author_email='tim.yellow@gmail.com',
+    url='https://github.com/timtan/django_direct_render',
+
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
